@@ -25,4 +25,6 @@ set env var ES_CONNECT_PATH to directory where kafka-connect-elasticsearch was c
 
 and run:
 
-`./startup.sh`
+`$ docker-compose up`
+
+`$ ./startup.sh`
